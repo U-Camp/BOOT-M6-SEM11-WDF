@@ -1,16 +1,16 @@
 ![Banner](./imagenes/banner.png)
 
-# M1S8: DOM (Selección y Manipulación desde el Navegador) y Eventos
+# WDF M6 S11: DOM (Selección y Manipulación desde el Navegador) y Eventos
 
->#### ¡Hola! ya te encuentras en la semana 8 de tu U Camp, ¿Cómo te sientes? ¿Has aprendido mucho? En esta semana tienes que empezar a diseñar y desarrollar tu segundo proyecto para que lo puedas mostrar en la siguiente U Class, recuerda que si presentas alguna duda, puedes consultar con tus coaches.
->#### Te recuerdo que ya aprendiste sobre: HTML, CSS, Flexbox, JavaScript y por supuesto ya entregaste tu primer proyecto; a continuación, iniciamos con el contenido de DOM. ¡Sigue adelante, nos vemos!
+>#### ¡Hola! Ya has avanzado demasiado... ¿Cómo te sientes? ¿Has aprendido mucho? En este módulo tienes que empezar a diseñar y desarrollar tu segundo proyecto para que lo puedas mostrar en la siguiente U Class, recuerda que si presentas alguna duda, puedes consultar con tus coaches.
+¡Sigue adelante, nos vemos!
 
 # ÍNDICE
 
-- [DOM: Document Object Model](https://github.com/U-Camp/BOOT-M1-SEM8#dom-document-object-model)
-  - [Selección](https://github.com/U-Camp/BOOT-M1-SEM8#selecci%C3%B3n)
-  - [Manipulación](https://github.com/U-Camp/BOOT-M1-SEM8#manipulaci%C3%B3n)
-- [Eventos](https://github.com/U-Camp/BOOT-M1-SEM8#eventos)
+- [DOM: Document Object Model](https://github.com/U-Camp/BOOT-M6-SEM11-WDF#dom-document-object-model)
+  - [Selección](https://github.com/U-Camp/BOOT-M6-SEM11-WDF#selecci%C3%B3n)
+  - [Manipulación](https://github.com/U-Camp/BOOT-M6-SEM11-WDF#manipulaci%C3%B3n)
+- [Eventos](https://github.com/U-Camp/BOOT-M6-SEM11-WDF#eventos)
 
 
 # DOM: Document Object Model
@@ -259,6 +259,6 @@ element.addEventListener("click", manejadorEvento2);
 
 *_Ejemplo de eventos en JavaScript_*
 
->#### Te dejo por aquí una infografía sobre eventos, si quieres consultarla y descargarla [Presiona aquí.](https://github.com/U-Camp/BOOT-M1-SEM8/blob/main/infografias/M1_S8_Infografia%2001.pdf)
+>#### Te dejo por aquí una infografía sobre eventos, si quieres consultarla y descargarla [Presiona aquí.](https://github.com/U-Camp/BOOT-M6-SEM11-WDF/blob/main/infografias/M1_S8_Infografia%2001.pdf)
 >#### Hasta ahora, ¿cómo te sientes?, recuerda que nuestro cuerpo es muy importante, te dejo por aquí un video que te muestra algunos ejercicios que puedes hacer para mejorar tu espalda [presiona aquí.](https://www.youtube.com/watch?v=swtgR3OWfQg)
->#### Nos vemos la próxima semana. :clock10:
+>#### Nos vemos en el siguiente contenido. :clock10:
