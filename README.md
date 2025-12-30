@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# WDF M6 S11: DOM (Selección y Manipulación desde el Navegador) y Eventos
+# WDF S11: DOM (Selección y Manipulación desde el Navegador) y Eventos
 
 >#### ¡Hola! Ya has avanzado demasiado... ¿Cómo te sientes? ¿Has aprendido mucho? En este módulo tienes que empezar a diseñar y desarrollar tu segundo proyecto para que lo puedas mostrar en la siguiente U Class, recuerda que si presentas alguna duda, puedes consultar con tus coaches.
 ¡Sigue adelante, nos vemos!
